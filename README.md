@@ -2,8 +2,10 @@ Standalone OpenMETA Visualizer Package Export
 =============================================
 
 This repository provides visualizer package export for OpenMETA versions prior
-to 0.23.0.  This functionality is built into OpenMETA 0.23.0 and later, so this
-repository is not needed there.
+to 0.23.0.  This functionality is built into OpenMETA 0.23.0 and later.
+
+These scripts add export functionality on a per-user basis, so admin rights are
+not required to run `install.cmd` and `uninstall.cmd`.
 
 Prerequisites
 -------------
