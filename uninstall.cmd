@@ -1,1 +1,1 @@
-reg delete /f HKCU\SOFTWARE\META\PETBrowser\PETTools\ExportVisualizerStandalone
+reg delete HKCU\SOFTWARE\META\PETBrowser\PETTools\ExportVisualizerStandalone /f
